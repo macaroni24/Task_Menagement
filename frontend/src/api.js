@@ -1,5 +1,4 @@
-const API_URL = "http://localhost:65211/api";
-
+const API_URL = "https://tasksmanager.runasp.net/api";
 export async function api(path, options = {}) {
   const token = localStorage.getItem("token");
 

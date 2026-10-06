@@ -26,7 +26,7 @@ function Auth({ onAuth }) {
               password: form.password,
             };
 
-      const data = await api(`/auth/${mode}`, {
+     const data = await api(mode === "login" ? "/auth/login2" : "/auth/register", {
         method: "POST",
         body: JSON.stringify(body),
       });
