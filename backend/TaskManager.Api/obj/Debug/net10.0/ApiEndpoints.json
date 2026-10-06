@@ -2,7 +2,7 @@
   {
     "ContainingType": "TaskManager.Api.Controllers.AuthController",
     "Method": "Login",
-    "RelativePath": "api/auth/login",
+    "RelativePath": "api/auth/login2",
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,

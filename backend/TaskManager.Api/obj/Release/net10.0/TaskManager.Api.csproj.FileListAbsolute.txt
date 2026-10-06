@@ -7,7 +7,6 @@ C:\Users\eronb\Desktop\TaskManagement\TaskMenagement\backend\TaskManager.Api\bin
 C:\Users\eronb\Desktop\TaskManagement\TaskMenagement\backend\TaskManager.Api\bin\Release\net10.0\TaskManager.Api.pdb
 C:\Users\eronb\Desktop\TaskManagement\TaskMenagement\backend\TaskManager.Api\bin\Release\net10.0\BCrypt.Net-Next.dll
 C:\Users\eronb\Desktop\TaskManagement\TaskMenagement\backend\TaskManager.Api\bin\Release\net10.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
-C:\Users\eronb\Desktop\TaskManagement\TaskMenagement\backend\TaskManager.Api\bin\Release\net10.0\Microsoft.Bcl.Cryptography.dll
 C:\Users\eronb\Desktop\TaskManagement\TaskMenagement\backend\TaskManager.Api\bin\Release\net10.0\Microsoft.Data.Sqlite.dll
 C:\Users\eronb\Desktop\TaskManagement\TaskMenagement\backend\TaskManager.Api\bin\Release\net10.0\Microsoft.EntityFrameworkCore.dll
 C:\Users\eronb\Desktop\TaskManagement\TaskMenagement\backend\TaskManager.Api\bin\Release\net10.0\Microsoft.EntityFrameworkCore.Abstractions.dll
@@ -24,18 +23,14 @@ C:\Users\eronb\Desktop\TaskManagement\TaskMenagement\backend\TaskManager.Api\bin
 C:\Users\eronb\Desktop\TaskManagement\TaskMenagement\backend\TaskManager.Api\bin\Release\net10.0\SQLitePCLRaw.core.dll
 C:\Users\eronb\Desktop\TaskManagement\TaskMenagement\backend\TaskManager.Api\bin\Release\net10.0\SQLitePCLRaw.provider.e_sqlite3.dll
 C:\Users\eronb\Desktop\TaskManagement\TaskMenagement\backend\TaskManager.Api\bin\Release\net10.0\System.IdentityModel.Tokens.Jwt.dll
-C:\Users\eronb\Desktop\TaskManagement\TaskMenagement\backend\TaskManager.Api\bin\Release\net10.0\runtimes\browser-wasm\nativeassets\net9.0\e_sqlite3.a
 C:\Users\eronb\Desktop\TaskManagement\TaskMenagement\backend\TaskManager.Api\bin\Release\net10.0\runtimes\linux-arm\native\libe_sqlite3.so
 C:\Users\eronb\Desktop\TaskManagement\TaskMenagement\backend\TaskManager.Api\bin\Release\net10.0\runtimes\linux-arm64\native\libe_sqlite3.so
 C:\Users\eronb\Desktop\TaskManagement\TaskMenagement\backend\TaskManager.Api\bin\Release\net10.0\runtimes\linux-armel\native\libe_sqlite3.so
 C:\Users\eronb\Desktop\TaskManagement\TaskMenagement\backend\TaskManager.Api\bin\Release\net10.0\runtimes\linux-mips64\native\libe_sqlite3.so
 C:\Users\eronb\Desktop\TaskManagement\TaskMenagement\backend\TaskManager.Api\bin\Release\net10.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
 C:\Users\eronb\Desktop\TaskManagement\TaskMenagement\backend\TaskManager.Api\bin\Release\net10.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
-C:\Users\eronb\Desktop\TaskManagement\TaskMenagement\backend\TaskManager.Api\bin\Release\net10.0\runtimes\linux-musl-riscv64\native\libe_sqlite3.so
-C:\Users\eronb\Desktop\TaskManagement\TaskMenagement\backend\TaskManager.Api\bin\Release\net10.0\runtimes\linux-musl-s390x\native\libe_sqlite3.so
 C:\Users\eronb\Desktop\TaskManagement\TaskMenagement\backend\TaskManager.Api\bin\Release\net10.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
 C:\Users\eronb\Desktop\TaskManagement\TaskMenagement\backend\TaskManager.Api\bin\Release\net10.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
-C:\Users\eronb\Desktop\TaskManagement\TaskMenagement\backend\TaskManager.Api\bin\Release\net10.0\runtimes\linux-riscv64\native\libe_sqlite3.so
 C:\Users\eronb\Desktop\TaskManagement\TaskMenagement\backend\TaskManager.Api\bin\Release\net10.0\runtimes\linux-s390x\native\libe_sqlite3.so
 C:\Users\eronb\Desktop\TaskManagement\TaskMenagement\backend\TaskManager.Api\bin\Release\net10.0\runtimes\linux-x64\native\libe_sqlite3.so
 C:\Users\eronb\Desktop\TaskManagement\TaskMenagement\backend\TaskManager.Api\bin\Release\net10.0\runtimes\linux-x86\native\libe_sqlite3.so
@@ -70,3 +65,6 @@ C:\Users\eronb\Desktop\TaskManagement\TaskMenagement\backend\TaskManager.Api\obj
 C:\Users\eronb\Desktop\TaskManagement\TaskMenagement\backend\TaskManager.Api\obj\Release\net10.0\TaskManager.Api.pdb
 C:\Users\eronb\Desktop\TaskManagement\TaskMenagement\backend\TaskManager.Api\obj\Release\net10.0\TaskManager.Api.genruntimeconfig.cache
 C:\Users\eronb\Desktop\TaskManagement\TaskMenagement\backend\TaskManager.Api\obj\Release\net10.0\ref\TaskManager.Api.dll
+C:\Users\eronb\Desktop\TaskManagement\TaskMenagement\backend\TaskManager.Api\bin\Release\net10.0\dotnet-tools.json
+C:\Users\eronb\Desktop\TaskManagement\TaskMenagement\backend\TaskManager.Api\bin\Release\net10.0\runtimes\browser-wasm\nativeassets\net8.0\e_sqlite3.a
+C:\Users\eronb\Desktop\TaskManagement\TaskMenagement\backend\TaskManager.Api\bin\Release\net10.0\runtimes\win-arm\native\e_sqlite3.dll
